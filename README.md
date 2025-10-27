@@ -26,7 +26,7 @@ Expect to see:
 - **Areas of Focus:** Cryptography, Simulations, Intelligence Systems, Embedded Logic, Robotics and Avionics
 
 ### Reach Me
-- **Email** - mawish.777.17@gmail.com
+- **Email** - mannatchauhan2008@gmail.com
 - Always open to collaborating on projects that connect computer science with real-world systems, have political discussions or strategic applications
 
 
